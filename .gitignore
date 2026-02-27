@@ -1,0 +1,79 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Secrets and Configurations
+.env
+.env.local
+.env.*.local
+secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Caching and Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.mo
+*.pot
+.hypothesis/
+.cache/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Data / Databases
+*.sqlite3
+*.db
+*.csv
+*.tsv
+*.xlsx
+*.jsonl
+*.parquet
+
+# Core Playwright Artifacts
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+*.har
+*.zip
+*.pdf
+*.png
+*.mp4
+*.webm
+
+# Logs
+*.log
+logs/

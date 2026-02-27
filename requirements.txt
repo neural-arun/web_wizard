@@ -1,0 +1,15 @@
+playwright
+pytest
+pytest-playwright
+pandas
+sqlalchemy
+psycopg2
+redis
+celery
+requests
+beautifulsoup4
+chromadb
+pinecone-client
+langchain
+fastapi
+uvicorn
