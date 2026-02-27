@@ -1,9 +1,4 @@
-
 # Playwright Curriculum — Syllabus (just topics & exercises)
-
-
-
----
 
 ## Module A — Foundations (must know)
 
