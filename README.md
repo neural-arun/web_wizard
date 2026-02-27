@@ -71,4 +71,4 @@ The learning journey spans from foundational concepts to production-ready, distr
 6.  **Project 6:** Playwright-agent connector for LLM/RAG workflows
 7.  **Capstone:** Distributed, Dockerized crawler with queue-based orchestration and vector DB pipeline.
 
-*See the full detailed syllabus in `curruculum.md`.*
+*See the full detailed syllabus in `curriculum.md`.*
