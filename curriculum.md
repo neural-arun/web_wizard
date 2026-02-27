@@ -2,11 +2,11 @@
 
 ## Module A — Foundations (must know)
 
-* Python basics refresher (context managers, async/await)
+
 * HTTP fundamentals (methods, headers, status codes)
 * HTML / DOM / CSS selectors
 * Browser DevTools quick actions (Elements, Network, Console)
-* Git basics (commit / branch / PR)
+
 * Playwright vs Selenium vs Scrapy vs Puppeteer comparison
 
 ## Module B — Playwright Core API (python)
