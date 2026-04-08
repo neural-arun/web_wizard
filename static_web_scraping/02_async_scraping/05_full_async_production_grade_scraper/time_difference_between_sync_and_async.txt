@@ -1,0 +1,4 @@
+ASYNC TIME: 11.88 seconds
+SYNC TOTAL TIME: 42.42s
+speedup = sync time/ ASYNC time
+speedup = 3.57x
